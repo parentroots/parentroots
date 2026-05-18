@@ -32,7 +32,6 @@
   - Firebase
   - GetX
   - REST APIs
-  - Clean Architecture
 - 👨‍💻 Love building:
   - Scalable Apps
   - Beautiful UI
