@@ -75,7 +75,7 @@
 
 ### 💻 Programming Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,js,python" />
+<img src="https://skillicons.dev/icons?i=java,dart" />
 </p>
 
 ### 🗄️ Database
