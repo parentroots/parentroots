@@ -5,6 +5,7 @@
 </h3>
 
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=parentroots&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views" />
   
@@ -143,16 +144,6 @@
 
 ---
 
-# ☕ Support Me
-
-<p align="center">
-<a href="https://buymeacoffee.com/">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-</a>
-</p>
-
----
-
 # 🎯 2026 Goals
 
 - ✅ Build Production Level Flutter Apps
@@ -168,14 +159,6 @@
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-# 🎵 Spotify Playing
-
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default"/>
 </p>
 
 ---
