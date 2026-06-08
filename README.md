@@ -28,7 +28,6 @@
 
 - 🔭 I’m currently working on **Flutter Mobile Applications**
 - 🌱 Learning **Advanced Flutter Architecture**
-- 🔥 Exploring **Backend with Spring Boot & Node.js**
 - 💬 Ask me about:
   - Flutter
   - Firebase
