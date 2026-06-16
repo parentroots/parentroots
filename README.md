@@ -56,30 +56,6 @@
 </a>
 </p>
 
----
-
-# 🚀 Tech Stack
-
-### 📱 Mobile Development
-<p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase" />
-</p>
-
-### 💻 Programming Languages
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,dart" />
-</p>
-
-### 🗄️ Database
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-### ⚙️ Tools & Technologies
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,figma,linux,vscode,postman" />
-</p>
-
 # 🎯 2026 Goals
 
 - ✅ Build Production Level Flutter Apps
