@@ -80,19 +80,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,figma,linux,vscode,postman" />
 </p>
 
----
-
-# 🧠 Currently Learning
-
-<p align="left">
-<img src="https://img.shields.io/badge/Flutter-Advanced-blue?style=for-the-badge&logo=flutter"/>
-<img src="https://img.shields.io/badge/Clean%20Architecture-Learning-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-Backend-green?style=for-the-badge&logo=springboot"/>
-<img src="https://img.shields.io/badge/Firebase-Expert-orange?style=for-the-badge&logo=firebase"/>
-</p>
-
-
-
 # 🎯 2026 Goals
 
 - ✅ Build Production Level Flutter Apps
@@ -121,5 +108,5 @@
 ---
 
 <h3 align="center">
-🔥 “Code. Create. Learn. Repeat.” 🔥
+🔥 “Eate => Code => => Sleeep => Repeat.” 🔥
 </h3>
