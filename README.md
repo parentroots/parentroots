@@ -42,14 +42,6 @@
 
 <br>
 
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.facebook.com/mdebrahim.nazmul" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="35" width="45" />
-</a>
 
 <a href="https://github.com/parentroots" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="35" width="45" />
@@ -99,22 +91,6 @@
 <img src="https://img.shields.io/badge/Firebase-Expert-orange?style=for-the-badge&logo=firebase"/>
 </p>
 
----
-
-
-# 📈 Most Used Languages
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parentroots&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=parentroots&theme=onedark&row=1&column=6"/>
-</p>
 
 
 # 🎯 2026 Goals
