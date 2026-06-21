@@ -74,13 +74,6 @@
 
 ---
 
-# 👀 Visitor Counter
-
-<p align="center">
-<img src="https://profile-counter.glitch.me/parentroots/count.svg"/>
-</p>
-
----
 
 <h3 align="center">
 🔥 “Eate > Code > Sleeep > Repeat” 🔥
