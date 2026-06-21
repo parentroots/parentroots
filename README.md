@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MD Ebrahim Nazmul</h1>
+<h1 align="center">HI 👋, I'M  MD EBRAHIM NAZMUL</h1>
 
 <h3 align="center">
 🚀 Passionate Flutter Developer | Mobile App Enthusiast | Firebase Lover
@@ -26,8 +26,8 @@
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🔭 I’m currently working on **Flutter Mobile Applications**
-- 🌱 Learning **Advanced Flutter Architecture**
+- 🔭 I’m currently working on **Mobile Applications Developement**
+- 🌱 Learning **Advanced Flutter**
 - 💬 Ask me about:
   - Flutter
   - Firebase
@@ -61,7 +61,6 @@
 - ✅ Build Production Level Flutter Apps
 - ✅ Learn Scalable Architecture
 - 🔄 Master State Management
-- 🔄 Learn DevOps for Mobile Apps
 - 🔄 Contribute to Open Source
 - 🔄 Publish Apps on Play Store & App Store
 
