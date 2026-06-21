@@ -84,5 +84,5 @@
 ---
 
 <h3 align="center">
-🔥 “Eate => Code => => Sleeep => Repeat.” 🔥
+🔥 “Eate > Code > Sleeep > Repeat” 🔥
 </h3>
