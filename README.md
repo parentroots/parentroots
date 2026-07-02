@@ -64,15 +64,6 @@
 - 🔄 Contribute to Open Source
 - 🔄 Publish Apps on Play Store & App Store
 
----
-
-# ✨ Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
 
 
 <h3 align="center">
