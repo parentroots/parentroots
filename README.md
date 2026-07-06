@@ -42,18 +42,6 @@
 
 <br>
 
-
-<a href="https://github.com/parentroots" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="35" width="45" />
-</a>
-
-<a href="https://linkedin.com" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="35" width="45" />
-</a>
-
-<a href="mailto:ebrahimnazmul20032@gmail.com">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="35" width="35" />
-</a>
 </p>
 
 # 🎯 2026 Goals
