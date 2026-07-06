@@ -40,8 +40,6 @@
 - ⚡ Fun Fact:
   > I can spend hours fixing UI pixel issues 😅
 
-<br>
-
 </p>
 
 # 🎯 2026 Goals
