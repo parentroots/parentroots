@@ -42,7 +42,7 @@ I'm a Flutter Developer at **Betopia Limited**, Dhaka, building and shipping pro
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-**Architecture I follow on every project:** `Model → ApiClient (Dio) → Repository → GetX Controller → UI`, feature-based folder structure (`screens/feature_name/`), 
+**Architecture I follow on every project:** `Model → ApiClient (Dio) → Repository → GetX Controller → UI`, feature-based folder structure (`screens/feature_name/`)
 
 ---
 
