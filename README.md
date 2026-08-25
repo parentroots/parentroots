@@ -1,6 +1,6 @@
 <div align="center">
 
-# MD EBRAHIM NAZMUL
+# Md Ebrahim Nazmul
 
 ### Flutter Developer · Building production mobile apps end-to-end, from architecture to App Store release
 
@@ -73,7 +73,7 @@ I'm a Flutter Developer at **Betopia Limited**, Dhaka — I build cross-platform
 
 > **Architecture I follow on every project**
 > `Model → ApiClient (Dio) → Repository → GetX Controller → UI`
-> Feature-based folder structure (`screens/feature_name/`)
+> Feature-based folder structure (`screens/feature_name/`) with a reusable component library — `CommonText` · `CommonButton` · `CommonTextField` · `CommonAppBar` · `CommonScaffold` · `CommonTopBar`.
 
 <br/>
 
