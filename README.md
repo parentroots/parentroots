@@ -184,19 +184,6 @@ Helps users track meals, restaurant choices, and nutrition history in one place.
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=parentroots&show_icons=true&theme=algolia&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parentroots&layout=compact&theme=algolia" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parentroots&theme=algolia" />
-</div>
-
-<br/>
-
 ## Let's Connect
 
 Open to **Junior/Mid Flutter Developer** roles and freelance mobile projects.
