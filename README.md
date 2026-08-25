@@ -1,6 +1,6 @@
 <div align="center">
 
-# Md Ebrahim Nazmul
+# MD EBRAHIM NAZMUL
 
 ### Flutter Developer · Building production mobile apps end-to-end, from architecture to App Store release
 
@@ -33,154 +33,139 @@ I'm a Flutter Developer at **Betopia Limited**, Dhaka — I build cross-platform
 
 ## Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-**Language & Framework**
+`Language & Framework`
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-**State Management**
+<br/><br/>
+
+`State Management`
 
 <img src="https://img.shields.io/badge/GetX-5C2D91?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Riverpod-40C4FF?style=for-the-badge" />
 
-</td>
-<td valign="top" width="50%">
+<br/><br/>
 
-**Backend & Realtime**
+`Backend & Realtime`
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
-**Payments & Tools**
+<br/><br/>
+
+`Payments, Tools & Release`
 
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Play%20Console-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
+<img src="https://img.shields.io/badge/App%20Store%20Connect-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" />
 
-</td>
-</tr>
-</table>
+</div>
 
-**Architecture I follow on every project:**
-`Model → ApiClient (Dio) → Repository → GetX Controller → UI`
-Feature-based folder structure (`screens/feature_name/`) 
+<br/>
+
+> **Architecture I follow on every project**
+> `Model → ApiClient (Dio) → Repository → GetX Controller → UI`
+> Feature-based folder structure (`screens/feature_name/`)
 
 <br/>
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="60">🏥</td>
-<td>
+<br/>
 
-### Permawell Health Care — Doctor Booking App
-**Status:** `Private / Client Project`
+### 🏥&nbsp; Permawell Health Care
+**Doctor Booking App** &nbsp;·&nbsp; ![status](https://img.shields.io/badge/Private%20%2F%20Client%20Project-lightgrey?style=flat-square)
 
-Connects patients with doctors for appointment booking, removing the friction of calls or walk-ins.
+*Connects patients with doctors for appointment booking, removing the friction of calls or walk-ins.*
 
-| What I built | |
-|---|---|
-| Auth | Dual sign-up/login flows for **Doctor** and **Patient** roles |
-| Booking | Appointment **create & cancel** flow |
-| Payments | In-app **payment** integration for consultations |
-| Communication | Real-time **messaging** between doctor and patient |
+- 🔐 Built dual **sign-up / login** flows for **Doctor** and **Patient** roles
+- 📅 Implemented appointment **create & cancel** flow
+- 💳 Integrated in-app **payment** for consultations
+- 💬 Built real-time **messaging** between doctor and patient
 
-`Flutter` `GetX` `Firebase` `REST API` `Payment Gateway`
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/GetX-5C2D91?style=flat-square" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square" />
+<img src="https://img.shields.io/badge/Payment%20Gateway-635BFF?style=flat-square&logo=stripe&logoColor=white" />
 
-</td>
-</tr>
+<br/><br/>
 
-<tr>
-<td width="60">📦</td>
-<td>
+### 📦&nbsp; MileSquad
+**Parcel Delivery App** &nbsp;·&nbsp; ![status](https://img.shields.io/badge/Private%20%2F%20Client%20Project-lightgrey?style=flat-square)
 
-### MileSquad — Parcel Delivery App
-**Status:** `Private / Client Project`
+*A two-sided delivery platform shipped as separate Customer and Rider apps, connecting people who need to send parcels with riders who deliver them.*
 
-A two-sided parcel delivery platform, shipped as **separate Customer and Rider apps**, connecting people who need to send parcels with riders who deliver them.
+- 📤 Customer app: parcel **creation** flow — pickup/drop details, request submission
+- ✅ Rider app: **accept/assign** flow for incoming delivery requests
+- 🗺️ **Real-time map tracking** over sockets, live on both Customer and Rider apps
+- 💬 In-app **messaging** between customer and rider
 
-| What I built | |
-|---|---|
-| Customer app | Parcel **creation** flow — pickup/drop details, request submission |
-| Rider app | **Accept/assign** flow for incoming delivery requests |
-| Live tracking | **Real-time map tracking** over sockets for both customer and rider |
-| Communication | In-app **messaging** between customer and rider |
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/GetX-5C2D91?style=flat-square" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 
-`Flutter` `GetX` `Socket.IO` `Google Maps` `Firebase`
+<br/><br/>
 
-</td>
-</tr>
+### ⚖️&nbsp; Panama Legal
+**Multi-Role Legal Services Platform** &nbsp;·&nbsp; ![status](https://img.shields.io/badge/Private%20%2F%20Client%20Project-lightgrey?style=flat-square)
 
-<tr>
-<td width="60">⚖️</td>
-<td>
+*Bridges citizens and lawyers on one platform for legal consultation, document access, and case communication.*
 
-### Panama Legal — Multi-Role Legal Services Platform
-**Status:** `Private / Client Project`
+- 💬 Migrated citizen–lawyer chat from REST to **Socket.IO**, added multipart file attachments
+- 🤖 Built a **chatbot** with recursive sub-question navigation for legal query triage
+- 📄 Integrated a searchable **PDF viewer** (Syncfusion) + paginated **law library**
+- ✨ Refined profile, logout & terms screens — primary resume project with iteratively tuned write-ups
 
-Bridges citizens and lawyers on one platform for legal consultation, document access, and case communication.
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/GetX-5C2D91?style=flat-square" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Syncfusion%20PDF-red?style=flat-square" />
+<img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square" />
 
-| What I built | |
-|---|---|
-| Chat | Migrated citizen–lawyer chat from REST to **Socket.IO**, added multipart file attachments |
-| Chatbot | Recursive sub-question navigation for legal query triage |
-| Documents | Searchable **PDF viewer** (Syncfusion) + paginated **law library** |
-| Polish | Profile, logout, and terms screens refined; primary resume project with iteratively tuned write-ups |
+<br/><br/>
 
-`Flutter` `GetX` `Socket.IO` `Syncfusion PDF` `REST API`
+### 📍&nbsp; Giolee78 (Just Clicker)
+**Social / Location-Based App** &nbsp;·&nbsp; ![status](https://img.shields.io/badge/Live%20on%20Play%20Store%20%26%20App%20Store-success?style=flat-square)
 
-</td>
-</tr>
+*A location-aware social app connecting nearby users, with in-app purchases and ad-supported screens.*
 
-<tr>
-<td width="60">📍</td>
-<td>
+- 🔔 Fixed **Firebase push notification** navigation across all app lifecycle states
+- 💳 Built **Stripe WebView** payment flow, later migrated to **native IAP** for App Store compliance
+- 🔑 Resolved **Google Sign-In SHA-1 / DEVELOPER_ERROR** issues
+- 🛡️ Took the app through **Play Console compliance** (AD_ID, delete-account URL, CSAE policy, content rating) and resolved multiple **App Store rejections** (location permissions, IAP, UGC moderation, iPad bugs)
+- 🎨 Redesigned `ViewAdsScreen` and `DashboardScreen`
 
-### Giolee78 (Just Clicker) — Social / Location-Based App
-**Status:** `Private / Client Project` · Live on Play Store & App Store (client-owned listing)
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/GetX-5C2D91?style=flat-square" />
+<img src="https://img.shields.io/badge/Firebase%20Cloud%20Messaging-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/In--App%20Purchases-0D96F6?style=flat-square&logo=appstore&logoColor=white" />
 
-A location-aware social app connecting nearby users, with in-app purchases and ad-supported screens.
+<br/><br/>
 
-| What I built | |
-|---|---|
-| Notifications | Fixed **FCM navigation** bugs across all app lifecycle states |
-| Payments | Built **Stripe WebView** flow, later migrated to **native IAP** for App Store compliance |
-| Auth | Resolved **Google Sign-In SHA-1 / DEVELOPER_ERROR** issues |
-| Store compliance | Play Console (AD_ID, delete-account URL, CSAE policy, content rating) + fixed multiple App Store rejections (location permissions, IAP, UGC moderation, iPad bugs) |
-| UI | Redesigned `ViewAdsScreen` and `DashboardScreen` |
+### 🍔&nbsp; Brain Denner (Fastfood Buddy)
+**Food & Health Tracking App** &nbsp;·&nbsp; ![status](https://img.shields.io/badge/Private%20%2F%20Client%20Project-lightgrey?style=flat-square)
 
-`Flutter` `GetX` `Firebase Cloud Messaging` `Stripe` `In-App Purchases`
+*Helps users track meals, restaurant choices, and nutrition history in one place.*
 
-</td>
-</tr>
+- 🍽️ Built the restaurant details screen + paginated **history list**
+- 🐛 Fixed a critical `BeforeYouEatScreen` navigation/data bug caused by GetX controller caching
+- 📊 Integrated the **Buddy Insights API** for personalized recommendations
 
-<tr>
-<td width="60">🍔</td>
-<td>
-
-### Brain Denner (Fastfood Buddy) — Food & Health Tracking App
-**Status:** `Private / Client Project`
-
-Helps users track meals, restaurant choices, and nutrition history in one place.
-
-| What I built | |
-|---|---|
-| Discovery | Restaurant details screen + paginated **history list** |
-| Bug fix | Fixed critical `BeforeYouEatScreen` navigation/data bug from GetX controller caching |
-| Insights | Integrated **Buddy Insights API** for personalized recommendations |
-
-`Flutter` `GetX` `REST API`
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/GetX-5C2D91?style=flat-square" />
+<img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square" />
 
 <br/>
 
