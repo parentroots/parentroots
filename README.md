@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm a Flutter Developer at **Betopia Limited**, Dhaka — I build cross-platform mobile apps from scratch and take them all the way through to **Play Store** and **App Store** release, including compliance and rejection handling. I started in native Android with Java before moving fully into Flutter.
+I'm a Flutter Developer at **Sparktech Agency **, Dhaka — I build cross-platform mobile apps from scratch and take them all the way through to **Play Store** and **App Store** release, including compliance and rejection handling. I started in native Android with Java before moving fully into Flutter.
 
 ```
 🔭 Currently building     mobile applications across multiple client & personal projects
