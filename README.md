@@ -46,7 +46,7 @@ I'm a Flutter Developer at **Sparktech Agency **, Dhaka — I build cross-platfo
 **State Management**
 
 <img src="https://img.shields.io/badge/GetX-5C2D91?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Riverpod-40C4FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cubit-40C4FF?style=for-the-badge" />
 
 </td>
 <td valign="top" width="50%">
