@@ -92,11 +92,6 @@ Connects patients with doctors for appointment booking, removing the friction of
 | Payments | In-app **payment** integration for consultations |
 | Communication | Real-time **messaging** between doctor and patient |
 
-<p align="left">
-  <img src="images/permawell_home.png" height="300" alt="Patient Home & Doctor Search" />
-  <img src="images/permawell_doctor_detail.png" height="300" alt="Doctor Profile & Reviews" />
-</p>
-
 `Flutter` `GetX` `Firebase` `REST API` `Payment Gateway`
 
 </td>
@@ -119,13 +114,6 @@ A two-sided parcel delivery platform, shipped as **separate Customer and Rider a
 | Communication | In-app **messaging** between customer and rider |
 
 <br/>
-
-<p align="left">
-  <img src="images/milesquad_customer.png" height="300" alt="Customer App - Location & Order Creation" />
-  <img src="images/milesquad_tracking.png" height="300" alt="Live Map Tracking Screen" />
-  <img src="images/milesquad_rider.png" height="300" alt="Rider App - Requests & Earnings" />
-</p>
-
 <br/>
 
 `Flutter` `GetX` `Socket.IO` `Google Maps` `Firebase`
