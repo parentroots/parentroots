@@ -11,8 +11,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=parentroots&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" />
-  <img src="https://img.shields.io/github/followers/parentroots?label=Followers&style=flat-square&color=blue" alt="followers" />
-  <img src="https://img.shields.io/badge/Open%20to-Full--time%20%2F%20Freelance-brightgreen?style=flat-square" alt="availability" />
   <img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh-orange?style=flat-square" alt="location" />
 </p>
 
