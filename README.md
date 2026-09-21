@@ -213,12 +213,6 @@ A lifestyle companion app that tracks meals, restaurant dining habits, and nutri
 I'm actively open to **Flutter Developer roles (Full-time / Remote)** and exciting **Freelance mobile projects**. Let's talk about your next app!
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:"><img src="https://img.shields.io/badge/Email-Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/parentroots"><img src="https://img.shields.io/badge/GitHub-Follow%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
   <br/><br/>
   <code><b>💡 "Eat → Code → Sleep → Repeat" 🚀</b></code>
 </div>
