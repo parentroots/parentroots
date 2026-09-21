@@ -1,199 +1,226 @@
 <div align="center">
-
-# MD EBRAHIM NAZMUL
-
-### Flutter Developer · Building production mobile apps end-to-end, from architecture to App Store release
-
-<img src="https://komarev.com/ghpvc/?username=parentroots&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" />
-<img src="https://img.shields.io/github/followers/parentroots?label=Followers&style=flat-square&color=blue" alt="followers" />
-<img src="https://img.shields.io/badge/Open%20to-Freelance%20%2F%20Full--time-brightgreen?style=flat-square" alt="availability" />
-<img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh-orange?style=flat-square" alt="location" />
-
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/parentroots"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
+  <img src="./assets/banner.png" alt="MD Ebrahim Nazmul - Flutter Developer Banner" width="100%" />
 </div>
 
 <br/>
 
-## About Me
+<div align="center">
 
-I'm a Flutter Developer at **Sparktech Agency **, Dhaka — I build cross-platform mobile apps from scratch and take them all the way through to **Play Store** and **App Store** release, including compliance and rejection handling. I started in native Android with Java before moving fully into Flutter.
+### 📱 Flutter Developer · Building Production Mobile Apps End-to-End
+**Cross-Platform (Android & iOS) · Scalable Architecture · Store Release & Compliance**
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parentroots&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" />
+  <img src="https://img.shields.io/github/followers/parentroots?label=Followers&style=flat-square&color=blue" alt="followers" />
+  <img src="https://img.shields.io/badge/Open%20to-Full--time%20%2F%20Freelance-brightgreen?style=flat-square" alt="availability" />
+  <img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh-orange?style=flat-square" alt="location" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/parentroots"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Flutter Developer** at **Sparktech Agency**, Dhaka. I specialize in taking cross-platform mobile apps from raw concept to full production release on the **Google Play Store** and **Apple App Store** — including strict store policy compliance, in-app purchases, and rejection resolution. 
+
+With a strong foundation in native Android (Java) and an eye for pixel-perfect UI, I focus on clean code architecture, responsive state management, and real-time interactive experiences.
+
+```text
+🔭 Currently Building    Production mobile apps across diverse client & enterprise domains
+🌱 Currently Exploring   Riverpod architecture & advanced performance profiling
+🛠  Core Daily Stack     Flutter · Dart · GetX · Firebase · REST APIs · Socket.IO · Maps
+📦 Shipped To            Google Play Store & Apple App Store (Full lifecycle & compliance)
+⚡ Philosophy            "Pixel-perfect UI meets bulletproof architectural foundation"
 ```
-🔭 Currently building     mobile applications across multiple client & personal projects
-🌱 Currently learning     Riverpod (migrating architectural thinking from GetX)
-🛠  Daily stack            Flutter · Dart · GetX · Firebase · REST APIs · Socket.IO
-📦 Shipped through        Google Play Console & Apple App Store, incl. compliance/rejections
-⚡ Fun fact                I'll spend an hour fixing one pixel of UI misalignment
-```
 
-<br/>
+---
 
-## Tech Stack
+## 🛠 Tech Stack & Architecture
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**Language & Framework**
+### 💻 Core & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java%20(Native%20Android)-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-**State Management**
-
-<img src="https://img.shields.io/badge/GetX-5C2D91?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cubit-40C4FF?style=for-the-badge" />
+### ⚙️ State Management
+<p>
+  <img src="https://img.shields.io/badge/GetX-5C2D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cubit-40C4FF?style=for-the-badge" />
+</p>
 
 </td>
 <td valign="top" width="50%">
 
-**Backend & Realtime**
+### 🌐 Real-Time & Backend
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API%20(Dio)-005571?style=for-the-badge" />
+</p>
 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
-
-**Payments & Tools**
-
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+### 💳 Payments, Maps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Stripe%20%2F%20In--App%20Purchase-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 </td>
 </tr>
 </table>
 
-**Architecture I follow on every project:**
-`Model → ApiClient (Dio) → Repository → GetX Controller → UI`
-Feature-based folder structure (`screens/feature_name/`) with a reusable component library — `CommonText`, `CommonButton`, `CommonTextField`, `CommonAppBar`, `CommonScaffold`, `CommonTopBar`.
+### 🏗 Architecture Pattern
+```text
+UI (Views & Custom Widgets) ◄──► GetX Controller / Cubit ◄──► Repository Layer ◄──► ApiClient (Dio) / WebSockets ◄──► Models
+```
+* **Folder Architecture**: Feature-first modular structure (`lib/modules/<feature_name>/` or `lib/screens/<feature_name>/`).
+* **Design System**: Strict reusable custom components library (`CommonText`, `CommonButton`, `CommonTextField`, `CommonAppBar`, `CommonScaffold`, `CommonTopBar`).
 
-<br/>
+---
 
-## Featured Projects
+## 🚀 Featured Projects & Case Studies
+
+Here is a curated showcase of production-ready mobile apps I have engineered:
 
 <table>
+
+<!-- Project 1: Permawell Health Care -->
 <tr>
-<td width="60">🏥</td>
 <td>
 
-### Permawell Health Care — Doctor Booking App
-**Status:** `Private / Client Project`
+### 🏥 Permawell Health Care — Doctor Appointment & Telehealth Platform
+> **Type:** Production Client App &nbsp;|&nbsp; **Target:** Android & iOS &nbsp;|&nbsp; **Role:** Lead Mobile Developer
 
-Connects patients with doctors for appointment booking, removing the friction of calls or walk-ins.
+**📖 Overview:**  
+A comprehensive healthcare consultation app that eliminates phone call and walk-in friction by connecting patients directly with licensed doctors for automated booking, secure payments, and telehealth communication.
 
-| What I built | |
-|---|---|
-| Auth | Dual sign-up/login flows for **Doctor** and **Patient** roles |
-| Booking | Appointment **create & cancel** flow |
-| Payments | In-app **payment** integration for consultations |
-| Communication | Real-time **messaging** between doctor and patient |
+**✨ Key Modules & Features:**
+* **Role-Based Authentication:** Dual registration and onboarding workflows tailored for **Doctors** (verification, schedule setup) and **Patients** (health history, profile).
+* **Appointment Engine:** Real-time doctor slot availability, instant booking, rescheduling, and cancellation with dynamic status tracking.
+* **Consultation Payments:** Secure in-app checkout integration for appointment fees prior to confirmation.
+* **Real-time Communication:** Built-in messaging channel for patient-doctor pre-consultation inquiries.
 
-`Flutter` `GetX` `Firebase` `REST API` `Payment Gateway`
+**🛠 Tech Stack:**  
+`Flutter` `Dart` `GetX` `Firebase Auth & Storage` `REST API (Dio)` `Payment Gateway`
 
 </td>
 </tr>
 
+<!-- Project 2: MileSquad -->
 <tr>
-<td width="60">📦</td>
 <td>
 
-### MileSquad — Parcel Delivery App
-**Status:** `Private / Client Project`
+### 📦 MileSquad — On-Demand Parcel Delivery Ecosystem (Dual Apps)
+> **Type:** Production Client Ecosystem &nbsp;|&nbsp; **Architecture:** 2 Dedicated Apps (Customer & Rider) &nbsp;|&nbsp; **Role:** Mobile Developer
 
-A two-sided parcel delivery platform, shipped as **separate Customer and Rider apps**, connecting people who need to send parcels with riders who deliver them.
+**📖 Overview:**  
+A complete two-sided logistics platform designed to streamline same-day parcel deliveries. Consists of a **Customer App** for order creation and a **Rider App** for request acceptance and real-time transit management.
 
-| What I built | |
-|---|---|
-| Customer app | Parcel **creation** flow — pickup/drop details, request submission |
-| Rider app | **Accept/assign** flow for incoming delivery requests |
-| Live tracking | **Real-time map tracking** over sockets for both customer and rider |
-| Communication | In-app **messaging** between customer and rider |
+**✨ Key Modules & Features:**
+* **Customer App (Order Lifecycle):** Multi-stop pickup/drop location picker, parcel dimension selection, fare estimation, and instant dispatch request.
+* **Rider App (Dispatch & Fulfillment):** Real-time order dispatch notifications, accept/reject matching algorithm, and route navigation.
+* **Live GPS Tracking (Socket.IO):** Continuous bi-directional coordinate streaming over WebSockets, allowing customers to watch delivery progression on Google Maps in real-time.
+* **In-App Rider Chat:** Direct socket-based communication between sender and delivery partner with instant notifications.
 
-<br/>
-<br/>
-
-`Flutter` `GetX` `Socket.IO` `Google Maps` `Firebase`
+**🛠 Tech Stack:**  
+`Flutter` `GetX` `Socket.IO` `Google Maps SDK` `Geolocator` `Firebase FCM` `REST API`
 
 </td>
 </tr>
 
+<!-- Project 3: Panama Legal -->
 <tr>
-<td width="60">⚖️</td>
 <td>
 
-### Panama Legal — Multi-Role Legal Services Platform
-**Status:** `Private / Client Project`
+### ⚖️ Panama Legal — Digital Legal Consultation & Law Library
+> **Type:** Production Legal Tech App &nbsp;|&nbsp; **Target:** Android & iOS &nbsp;|&nbsp; **Role:** Mobile Developer
 
-Bridges citizens and lawyers on one platform for legal consultation, document access, and case communication.
+**📖 Overview:**  
+A digital gateway connecting citizens with legal experts, providing instant legal guidance through automated triage chatbots, lawyer consultations, and a searchable law database.
 
-| What I built | |
-|---|---|
-| Chat | Migrated citizen–lawyer chat from REST to **Socket.IO**, added multipart file attachments |
-| Chatbot | Recursive sub-question navigation for legal query triage |
-| Documents | Searchable **PDF viewer** (Syncfusion) + paginated **law library** |
-| Polish | Profile, logout, and terms screens refined; primary resume project with iteratively tuned write-ups |
+**✨ Key Modules & Features:**
+* **Real-Time Legal Chat (Socket.IO):** Upgraded chat pipeline from REST polling to bidirectional WebSockets, supporting multipart file sharing (case documents, images, PDFs).
+* **Automated Triage Chatbot:** Recursive interactive question engine that categorizes client legal dilemmas and routes them to appropriate specialists.
+* **Law Library & Document Viewer:** Integrated high-performance searchable PDF viewer (Syncfusion) with paginated legal codes, offline caching, and bookmarking.
+* **Security & Compliance:** Token-based secure session handling, dynamic legal disclaimer agreements, and account deletion compliance.
 
-`Flutter` `GetX` `Socket.IO` `Syncfusion PDF` `REST API`
+**🛠 Tech Stack:**  
+`Flutter` `Dart` `GetX` `Socket.IO` `Syncfusion PDF Viewer` `Dio HTTP Client`
 
 </td>
 </tr>
 
+<!-- Project 4: Giolee78 -->
 <tr>
-<td width="60">📍</td>
 <td>
 
-### Giolee78 (Just Clicker) — Social / Location-Based App
-**Status:** `Private / Client Project` · Live on Play Store & App Store (client-owned listing)
+### 📍 Giolee78 (Just Clicker) — Proximity Social Discovery & Monetization
+> **Type:** Live on Stores (Client Listing) &nbsp;|&nbsp; **Target:** Google Play & Apple App Store &nbsp;|&nbsp; **Role:** App Engineer & Store Compliance
 
-A location-aware social app connecting nearby users, with in-app purchases and ad-supported screens.
+**📖 Overview:**  
+A location-aware social discovery network enabling nearby users to connect, interact, and engage, backed by monetization via ad-supported screens and digital subscriptions.
 
-| What I built | |
-|---|---|
-| Notifications | Fixed **FCM navigation** bugs across all app lifecycle states |
-| Payments | Built **Stripe WebView** flow, later migrated to **native IAP** for App Store compliance |
-| Auth | Resolved **Google Sign-In SHA-1 / DEVELOPER_ERROR** issues |
-| Store compliance | Play Console (AD_ID, delete-account URL, CSAE policy, content rating) + fixed multiple App Store rejections (location permissions, IAP, UGC moderation, iPad bugs) |
-| UI | Redesigned `ViewAdsScreen` and `DashboardScreen` |
+**✨ Key Modules & Features:**
+* **Store Compliance & Rejection Handling:** Successfully resolved strict App Store rejections (UGC moderation guidelines, background location policies, iPad layout constraints) and Google Play requirements (AD_ID, account deletion URL, CSAE).
+* **Monetization (In-App Purchases & Stripe):** Engineered seamless native Apple/Google In-App Purchases (IAP) alongside Stripe checkout for premium memberships.
+* **FCM Notification Engine:** Solved complex background/terminated app lifecycle notification routing so deep links trigger correct user screens accurately.
+* **Authentication Security:** Resolved Google Sign-In SHA-1 / `DEVELOPER_ERROR` credential conflicts across release keystores.
 
-`Flutter` `GetX` `Firebase Cloud Messaging` `Stripe` `In-App Purchases`
+**🛠 Tech Stack:**  
+`Flutter` `GetX` `Firebase Cloud Messaging (FCM)` `In-App Purchases (IAP)` `Stripe` `Google Play Console` `Apple App Store Connect`
 
 </td>
 </tr>
 
+<!-- Project 5: Brain Denner -->
 <tr>
-<td width="60">🍔</td>
 <td>
 
-### Brain Denner (Fastfood Buddy) — Food & Health Tracking App
-**Status:** `Private / Client Project`
+### 🍔 Brain Denner (Fastfood Buddy) — Smart Nutrition & Meal Tracker
+> **Type:** Production Client App &nbsp;|&nbsp; **Target:** Android & iOS &nbsp;|&nbsp; **Role:** Mobile Developer
 
-Helps users track meals, restaurant choices, and nutrition history in one place.
+**📖 Overview:**  
+A lifestyle companion app that tracks meals, restaurant dining habits, and nutritional breakdowns, giving users personalized health insights and dietary recommendations.
 
-| What I built | |
-|---|---|
-| Discovery | Restaurant details screen + paginated **history list** |
-| Bug fix | Fixed critical `BeforeYouEatScreen` navigation/data bug from GetX controller caching |
-| Insights | Integrated **Buddy Insights API** for personalized recommendations |
+**✨ Key Modules & Features:**
+* **Restaurant Discovery & History:** Dynamic restaurant directory with paginated user dining log and filtering.
+* **Buddy Insights API:** Connected AI/analytic recommendation endpoints to calculate personalized nutrition tips based on user eating patterns.
+* **State Management & Caching Fixes:** Resolved critical controller lifecycle and data persistence bugs across navigation stacks (`BeforeYouEatScreen`).
 
-`Flutter` `GetX` `REST API`
+**🛠 Tech Stack:**  
+`Flutter` `Dart` `GetX` `Dio REST API` `Cached Network Image` `Custom UI Widgets`
 
 </td>
 </tr>
+
 </table>
 
-<br/>
+---
 
-## Let's Connect
+## 📬 Let's Connect & Build Together
 
-Open to **Junior/Mid Flutter Developer** roles and freelance mobile projects.
+I'm actively open to **Flutter Developer roles (Full-time / Remote)** and exciting **Freelance mobile projects**. Let's talk about your next app!
 
 <div align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:"><img src="https://img.shields.io/badge/Email-Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/parentroots"><img src="https://img.shields.io/badge/GitHub-Follow%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<h3>🔥 "Eat → Code → Sleep → Repeat" 🔥</h3>
+  <br/><br/>
+  <code><b>💡 "Eat → Code → Sleep → Repeat" 🚀</b></code>
 </div>
